@@ -1,0 +1,12 @@
+/**/*.ipynb_checkpoints
+
+/**/__pycache__
+
+/**/*.csv
+/**/*.zip
+/**/*.txt
+
+/**/data
+/**/__MACOSX
+
+/.vscode
